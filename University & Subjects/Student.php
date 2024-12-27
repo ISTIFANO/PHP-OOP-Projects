@@ -1,4 +1,6 @@
 <?php
+namespace App\Controller;
+
 /**
  * User: TheCodeholic
  * Date: 4/8/2020
